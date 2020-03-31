@@ -9,6 +9,6 @@ Pecahkan telur dan jangan di kocok
 REPEAT
 - IF telur rusak atau busuk = "Tidak" THEN
 - Goreng Di Wajan
-- ELSE Ambil telur  
+- ELSE Ambil telur
 UNTIL telur rusak atau busuk = "Tidak"  
 Angkat Setelah jadi  
